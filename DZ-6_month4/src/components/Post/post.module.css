@@ -1,0 +1,23 @@
+/*body {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: border-box;*/
+/*    background-color: wheat;*/
+/*}*/
+/*.cb {*/
+/*    background-color: white;*/
+/*    border: none;*/
+/*    cursor: pointer;*/
+/*    height: 40px;*/
+/*    width: 120px;*/
+/*    border-radius: 8px;*/
+/*}*/
+.post {
+    list-style: none;
+}
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    flex-wrap: wrap;*/
+/*    background-color: aqua;*/
+/*    width: 400px;*/
+/*}*/

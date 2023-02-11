@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.register {
+
+}
+
+.createEmail {
+
+}
+
+.epn {
+    width: 296px;
+    height: 46px;
+    border-radius: 4px;
+    outline: none;
+    border: solid 2px #A6BCDA;
+}
+
+.sign {
+    width: 296px;
+    height: 40px;
+    border: none;
+    background-color: #0077EE;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 21px;
+    gap: 10px;
+    color: white;
+    border-radius: 4px;
+}
+
+.sign:disabled:hover {
+    cursor: not-allowed;
+}
